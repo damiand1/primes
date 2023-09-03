@@ -74,6 +74,7 @@ only checks until square root of the actual number.
 Implementation of Sieve of Erathosthenes.
 
 ## Usage
+Requires JDK SDK 1.8 If using IDE set the JDK SDK 1.8 as default one.
 First of all do mvn clean install
 Run the PrimeApplication
 Perform a REST GET request to localhost:8080/primes/{primeRange}
